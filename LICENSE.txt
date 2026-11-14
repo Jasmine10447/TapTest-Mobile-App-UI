@@ -1,0 +1,31 @@
+Copyright (c) 2025 Yesmin Jalaldeen
+
+ALL RIGHTS RESERVED.
+
+This repository and its contents, including but not limited to UI/UX designs,
+interface layouts, visual compositions, project documentation, screenshots,
+and other original creative materials, are the intellectual property of
+Yesmin Jalaldeen, unless otherwise stated.
+
+No permission is granted to copy, reproduce, modify, distribute, publish,
+republish, or commercially exploit the original project materials, in whole
+or in part, without prior written permission from the copyright holder.
+
+Viewing and accessing this repository for personal, educational, and
+reference purposes is permitted, provided that the original authorship
+and ownership are acknowledged.
+
+Third-party assets, including images, icons, fonts, and other resources,
+are excluded from this notice and remain subject to their respective
+owners' licensing terms and usage conditions.
+
+The availability of this repository on GitHub does not constitute a
+transfer of ownership or grant any additional rights to the original
+project materials.
+
+For permission requests, attribution inquiries, or other licensing
+questions, please contact the copyright holder.
+
+Author: Yesmin Jalaldeen
+Project: TapTest – Mobile-First Micro-Quiz Application
+Year: 2025
