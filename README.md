@@ -1,4 +1,4 @@
-<h1 align="center">📱 TapTest – Mobile-First Micro-Quiz Application</h1>
+# 📱 TapTest – Mobile-First Micro-Quiz Application
 
 <p align="center">
   <strong>A Human-Computer Interaction Project Focused on Designing an Accessible, User-Centered Micro-Quiz Application Using Figma</strong>
@@ -74,26 +74,34 @@ The interface design incorporates the following principles:
 ## 🚀 Proposed Application Features
 
 ### 1. Quick Quiz
+
 A short quiz experience designed around focused questions, allowing users to participate in quick learning activities.
 
 ### 2. Structured Essay Questions (SEQs)
+
 A quiz format designed to support structured, descriptive answers rather than relying exclusively on multiple-choice questions.
 
 ### 3. Challenge Chain Mode
+
 A social quiz experience that allows users to create and share challenges through a link or code. Other users can attempt the same challenge asynchronously, with their results presented on a shared leaderboard.
 
 ### 4. Voice Quiz
+
 A proposed voice-based quiz experience that explores voice input and output to support alternative interaction methods.
 
 ### 5. Gamification & Progress Tracking
+
 Includes proposed engagement features such as:
+
 - Learning progress tracking.
 - Leaderboards.
 - Achievement badges.
 - Quiz performance indicators.
 
 ### 6. Accessibility & Inclusive Interaction
+
 The proposed interface explores accessibility-oriented features such as:
+
 - Voice input and output.
 - High-contrast themes.
 - Adjustable text sizes.
@@ -105,6 +113,7 @@ The proposed interface explores accessibility-oriented features such as:
 - Clear language and progress indicators.
 
 ### 7. Topic Workspace & Learning Resources
+
 Provides a proposed workspace for organizing learning topics and supporting resources, including PDFs, notes, and external links.
 
 ---
@@ -124,29 +133,98 @@ Provides a proposed workspace for organizing learning topics and supporting reso
 
 ---
 
-## 📱 Application Interfaces
+## 📱 Application Preview
 
-The proposed TapTest application includes the following interface areas:
+The following preview showcases the main dashboard of the proposed TapTest mobile application.
 
-| Interface | Description |
-|---|---|
-| Landing & Onboarding | Introduces the application and its main purpose. |
-| Authentication | Login, registration, and password recovery interfaces. |
-| Dashboard | Provides access to learning activities and application features. |
-| Profile & Settings | Includes user profile, preferences, and notification settings. |
-| Leaderboard | Displays proposed social ranking and quiz performance information. |
-| Explore & Quiz Creation | Supports topic exploration, previous quiz editing, and quiz creation interfaces. |
-| Quiz Selection | Allows users to select from the available quiz experiences. |
-| Quick Quiz | Presents the short-form quiz interface. |
-| SEQ Quiz | Presents the structured essay question interface. |
-| Challenge Chain | Represents the shared quiz challenge experience. |
-| Voice Quiz | Explores voice-based quiz interaction. |
+<p align="center">
+  <a href="public/images/taptest/Main%20Dashboard%20Screen.png">
+    <img src="public/images/taptest/Main%20Dashboard%20Screen.png" alt="TapTest Main Dashboard Screen" width="320">
+  </a>
+</p>
+
+<p align="center">
+  <em>TapTest – Main Dashboard Interface</em>
+</p>
+
+---
+
+## 🖼️ Application Screens
+
+Explore the other interface designs created for the proposed TapTest application. Select any screen to view its full-size version.
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="public/images/taptest/TapTest%20Landing%20Screen.png">
+        <img src="public/images/taptest/TapTest%20Landing%20Screen.png" alt="TapTest Landing Screen" width="220">
+      </a>
+      <br>
+      <strong>Landing Screen</strong>
+    </td>
+    <td align="center" width="50%">
+      <a href="public/images/taptest/Profile%20Screen.png">
+        <img src="public/images/taptest/Profile%20Screen.png" alt="Profile Screen" width="220">
+      </a>
+      <br>
+      <strong>Profile Screen</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="public/images/taptest/Leaderboard%20Screen.png">
+        <img src="public/images/taptest/Leaderboard%20Screen.png" alt="Leaderboard Screen" width="220">
+      </a>
+      <br>
+      <strong>Leaderboard Screen</strong>
+    </td>
+    <td align="center" width="50%">
+      <a href="public/images/taptest/Quiz%20Selection%20Screen.png">
+        <img src="public/images/taptest/Quiz%20Selection%20Screen.png" alt="Quiz Selection Screen" width="220">
+      </a>
+      <br>
+      <strong>Quiz Selection Screen</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="public/images/taptest/Quick%20Quiz%20-%20Detail%20Screen.png">
+        <img src="public/images/taptest/Quick%20Quiz%20-%20Detail%20Screen.png" alt="Quick Quiz Detail Screen" width="220">
+      </a>
+      <br>
+      <strong>Quick Quiz – Detail Screen</strong>
+    </td>
+    <td align="center" width="50%">
+      <a href="public/images/taptest/SEQ%20Detail%20Screen.png">
+        <img src="public/images/taptest/SEQ%20Detail%20Screen.png" alt="SEQ Detail Screen" width="220">
+      </a>
+      <br>
+      <strong>SEQ – Detail Screen</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="public/images/taptest/Challenge%20Chain%20-%20Detail%20Screen.png">
+        <img src="public/images/taptest/Challenge%20Chain%20-%20Detail%20Screen.png" alt="Challenge Chain Detail Screen" width="220">
+      </a>
+      <br>
+      <strong>Challenge Chain – Detail Screen</strong>
+    </td>
+    <td align="center" width="50%">
+      <a href="public/images/taptest/Voice%20Quiz%20Detail%20Screen.png">
+        <img src="public/images/taptest/Voice%20Quiz%20Detail%20Screen.png" alt="Voice Quiz Detail Screen" width="220">
+      </a>
+      <br>
+      <strong>Voice Quiz – Detail Screen</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📂 Repository Structure
 
-The repository is organized into separate directories to maintain the final interface designs and supporting academic documentation.
+The repository is organized into separate directories to maintain the final interface designs, exported application screenshots, and supporting academic documentation.
 
 ```text
 TapTest-Mobile-App-UI/
@@ -154,14 +232,23 @@ TapTest-Mobile-App-UI/
 ├── Final UI Designs/
 │   └── Exported high-fidelity application screens
 │
-├── Screenshots/
-│   └── Selected application interface previews
+├── TapTest Report/
+│   └── Final academic project report
 │
-├── Documentation/
-│   └── TapTest Final Project Report.pdf
+├── public/
+│   └── images/
+│       └── taptest/
+│           ├── Main Dashboard Screen.png
+│           ├── TapTest Landing Screen.png
+│           ├── Profile Screen.png
+│           ├── Leaderboard Screen.png
+│           ├── Quiz Selection Screen.png
+│           ├── Quick Quiz - Detail Screen.png
+│           ├── SEQ Detail Screen.png
+│           ├── Challenge Chain - Detail Screen.png
+│           └── Voice Quiz Detail Screen.png
 │
-├── LICENSE
-│
+├── LICENSE.txt
 └── README.md
 ```
 
@@ -173,7 +260,7 @@ The final project report provides the academic background, design considerations
 
 It documents the project's focus on microlearning, accessibility, gamification, and user-centered interaction design.
 
-Refer to the **Documentation** folder for the supporting project report.
+Refer to the **TapTest Report** folder for the supporting project report.
 
 ---
 
@@ -250,4 +337,3 @@ For questions regarding the original design contributions, attribution, or permi
 **© 2026 Yesmin Jalaldeen — All Rights Reserved.**
 
 </div>
-```
