@@ -15,9 +15,6 @@
   <img src="https://img.shields.io/badge/HCI-User--Centered%20Design-DB2777" alt="Human Computer Interaction">
 </p>
 
-<p align="center">
-  <img src="Screenshots/TapTest-Banner.png" alt="TapTest Mobile Micro-Quiz Application – Banner">
-</p>
 
 ---
 
@@ -138,8 +135,8 @@ Provides a proposed workspace for organizing learning topics and supporting reso
 The following preview showcases the main dashboard of the proposed TapTest mobile application.
 
 <p align="center">
-  <a href="public/images/taptest/Main%20Dashboard%20Screen.png">
-    <img src="public/images/taptest/Main%20Dashboard%20Screen.png" alt="TapTest Main Dashboard Screen" width="320">
+  <a href="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Main%20Dashboard%20Screen.png">
+    <img src="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Main%20Dashboard%20Screen.png" alt="TapTest Main Dashboard Screen" width="320">
   </a>
 </p>
 
@@ -156,15 +153,15 @@ Explore the other interface designs created for the proposed TapTest application
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="public/images/taptest/TapTest%20Landing%20Screen.png">
-        <img src="public/images/taptest/TapTest%20Landing%20Screen.png" alt="TapTest Landing Screen" width="220">
+      <a href="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/TapTest%20Landing%20Screen.png">
+        <img src="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/TapTest%20Landing%20Screen.png" alt="TapTest Landing Screen" width="220">
       </a>
       <br>
       <strong>Landing Screen</strong>
     </td>
     <td align="center" width="50%">
-      <a href="public/images/taptest/Profile%20Screen.png">
-        <img src="public/images/taptest/Profile%20Screen.png" alt="Profile Screen" width="220">
+      <a href="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Profile%20Screen.png">
+        <img src="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Profile%20Screen.png" alt="Profile Screen" width="220">
       </a>
       <br>
       <strong>Profile Screen</strong>
@@ -172,15 +169,15 @@ Explore the other interface designs created for the proposed TapTest application
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="public/images/taptest/Leaderboard%20Screen.png">
-        <img src="public/images/taptest/Leaderboard%20Screen.png" alt="Leaderboard Screen" width="220">
+      <a href="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Leaderboard%20Screen.png">
+        <img src="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Leaderboard%20Screen.png" alt="Leaderboard Screen" width="220">
       </a>
       <br>
       <strong>Leaderboard Screen</strong>
     </td>
     <td align="center" width="50%">
-      <a href="public/images/taptest/Quiz%20Selection%20Screen.png">
-        <img src="public/images/taptest/Quiz%20Selection%20Screen.png" alt="Quiz Selection Screen" width="220">
+      <a href="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Quiz%20Selection%20Screen.png">
+        <img src="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Quiz%20Selection%20Screen.png" alt="Quiz Selection Screen" width="220">
       </a>
       <br>
       <strong>Quiz Selection Screen</strong>
@@ -188,15 +185,15 @@ Explore the other interface designs created for the proposed TapTest application
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="public/images/taptest/Quick%20Quiz%20-%20Detail%20Screen.png">
-        <img src="public/images/taptest/Quick%20Quiz%20-%20Detail%20Screen.png" alt="Quick Quiz Detail Screen" width="220">
+      <a href="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Quick%20Quiz%20-%20Detail%20Screen.png">
+        <img src="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Quick%20Quiz%20-%20Detail%20Screen.png" alt="Quick Quiz Detail Screen" width="220">
       </a>
       <br>
       <strong>Quick Quiz – Detail Screen</strong>
     </td>
     <td align="center" width="50%">
-      <a href="public/images/taptest/SEQ%20Detail%20Screen.png">
-        <img src="public/images/taptest/SEQ%20Detail%20Screen.png" alt="SEQ Detail Screen" width="220">
+      <a href="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/SEQ%20Detail%20Screen.png">
+        <img src="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/SEQ%20Detail%20Screen.png" alt="SEQ Detail Screen" width="220">
       </a>
       <br>
       <strong>SEQ – Detail Screen</strong>
@@ -204,15 +201,15 @@ Explore the other interface designs created for the proposed TapTest application
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="public/images/taptest/Challenge%20Chain%20-%20Detail%20Screen.png">
-        <img src="public/images/taptest/Challenge%20Chain%20-%20Detail%20Screen.png" alt="Challenge Chain Detail Screen" width="220">
+      <a href="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Challenge%20Chain%20-%20Detail%20Screen.png">
+        <img src="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Challenge%20Chain%20-%20Detail%20Screen.png" alt="Challenge Chain Detail Screen" width="220">
       </a>
       <br>
       <strong>Challenge Chain – Detail Screen</strong>
     </td>
     <td align="center" width="50%">
-      <a href="public/images/taptest/Voice%20Quiz%20Detail%20Screen.png">
-        <img src="public/images/taptest/Voice%20Quiz%20Detail%20Screen.png" alt="Voice Quiz Detail Screen" width="220">
+      <a href="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Voice%20Quiz%20Detail%20Screen.png">
+        <img src="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Voice%20Quiz%20Detail%20Screen.png" alt="Voice Quiz Detail Screen" width="220">
       </a>
       <br>
       <strong>Voice Quiz – Detail Screen</strong>
