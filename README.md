@@ -15,22 +15,17 @@
   <img src="https://img.shields.io/badge/HCI-User--Centered%20Design-DB2777" alt="Human Computer Interaction">
 </p>
 
-
 ---
 
 ## 📌 Project Overview
 
-TapTest is a mobile-first micro-quiz application concept developed as an academic Human-Computer Interaction (HCI) project. The project explores how short, interactive learning activities can be combined with accessible interface design and social engagement to create a more flexible and engaging learning experience.
+TapTest is a mobile-first micro-quiz application concept developed as an academic Human-Computer Interaction (HCI) project. It aims to make learning more flexible and engaging through short, interactive quiz experiences.
 
-The proposed application introduces multiple quiz experiences, including Quick Quizzes, Structured Essay Questions (SEQs), Voice Quizzes, and Challenge Chain Mode. It also incorporates gamification elements such as progress tracking, achievement badges, and leaderboards to encourage participation and continued learning.
+The proposed application features Quick Quizzes, Structured Essay Questions (SEQs), Voice Quizzes, and **Challenge Chain Mode**, alongside gamification elements such as progress tracking, achievement badges, and leaderboards. Accessibility considerations include voice interaction, adjustable text sizes, high-contrast themes, and simplified navigation.
 
-A key feature of TapTest is its **Challenge Chain Mode**, which allows users to create and share quiz challenges with others through a link or code. Participants can attempt the same challenge asynchronously, with their results displayed on a shared leaderboard.
+Designed using **Figma**, the project demonstrates the application of HCI principles through user-centered interface design, usability, and accessibility considerations.
 
-Accessibility is an important consideration throughout the design. The proposed interfaces explore features such as voice interaction, adjustable text sizes, high-contrast themes, haptic feedback, large touch targets, and simplified navigation to support different user needs.
-
-Developed using **Figma**, the project demonstrates the application of HCI principles through interface planning, visual design, and the creation of high-fidelity mobile application screens.
-
-**Project Scope:** This repository contains UI/UX design materials and academic documentation. It does not represent a fully developed or deployable mobile application.
+**Project Scope:** This repository contains UI/UX design materials and academic documentation, not a fully developed or deployable mobile application.
 
 ---
 
