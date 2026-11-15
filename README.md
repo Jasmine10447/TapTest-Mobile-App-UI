@@ -1,4 +1,4 @@
-# 📱 TapTest – Mobile-First Micro-Quiz Application
+<h1 align="center">📱 TapTest – Mobile-First Micro-Quiz Application</h1>
 
 <p align="center">
   <strong>A Human-Computer Interaction Project Focused on Designing an Accessible, User-Centered Micro-Quiz Application Using Figma</strong>
@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/Gamification-Learning%20Engagement-10B981" alt="Gamification">
   <img src="https://img.shields.io/badge/Mobile%20Application-Interface%20Design-0EA5E9" alt="Mobile Application Design">
   <img src="https://img.shields.io/badge/HCI-User--Centered%20Design-DB2777" alt="Human Computer Interaction">
+</p>
+
+<p align="center">
+  <img src="Final%20UI%20Designs/Banner%20UI.png" alt="TapTest Application Banner">
 </p>
 
 ---
@@ -125,95 +129,6 @@ Provides a proposed workspace for organizing learning topics and supporting reso
 
 ---
 
-## 📱 Application Preview
-
-The following preview showcases the main dashboard of the proposed TapTest mobile application.
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Main%20Dashboard%20Screen.png">
-    <img src="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Main%20Dashboard%20Screen.png" alt="TapTest Main Dashboard Screen" width="320">
-  </a>
-</p>
-
-<p align="center">
-  <em>TapTest – Main Dashboard Interface</em>
-</p>
-
----
-
-## 🖼️ Application Screens
-
-Explore the other interface designs created for the proposed TapTest application. Select any screen to view its full-size version.
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/TapTest%20Landing%20Screen.png">
-        <img src="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/TapTest%20Landing%20Screen.png" alt="TapTest Landing Screen" width="220">
-      </a>
-      <br>
-      <strong>Landing Screen</strong>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Profile%20Screen.png">
-        <img src="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Profile%20Screen.png" alt="Profile Screen" width="220">
-      </a>
-      <br>
-      <strong>Profile Screen</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Leaderboard%20Screen.png">
-        <img src="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Leaderboard%20Screen.png" alt="Leaderboard Screen" width="220">
-      </a>
-      <br>
-      <strong>Leaderboard Screen</strong>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Quiz%20Selection%20Screen.png">
-        <img src="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Quiz%20Selection%20Screen.png" alt="Quiz Selection Screen" width="220">
-      </a>
-      <br>
-      <strong>Quiz Selection Screen</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Quick%20Quiz%20-%20Detail%20Screen.png">
-        <img src="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Quick%20Quiz%20-%20Detail%20Screen.png" alt="Quick Quiz Detail Screen" width="220">
-      </a>
-      <br>
-      <strong>Quick Quiz – Detail Screen</strong>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/SEQ%20Detail%20Screen.png">
-        <img src="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/SEQ%20Detail%20Screen.png" alt="SEQ Detail Screen" width="220">
-      </a>
-      <br>
-      <strong>SEQ – Detail Screen</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Challenge%20Chain%20-%20Detail%20Screen.png">
-        <img src="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Challenge%20Chain%20-%20Detail%20Screen.png" alt="Challenge Chain Detail Screen" width="220">
-      </a>
-      <br>
-      <strong>Challenge Chain – Detail Screen</strong>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Voice%20Quiz%20Detail%20Screen.png">
-        <img src="https://raw.githubusercontent.com/Jasmine10447/TapTest-Mobile-App-UI/main/public/images/taptest/Voice%20Quiz%20Detail%20Screen.png" alt="Voice Quiz Detail Screen" width="220">
-      </a>
-      <br>
-      <strong>Voice Quiz – Detail Screen</strong>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📂 Repository Structure
 
 The repository is organized into separate directories to maintain the final interface designs, exported application screenshots, and supporting academic documentation.
@@ -222,25 +137,27 @@ The repository is organized into separate directories to maintain the final inte
 TapTest-Mobile-App-UI/
 │
 ├── Final UI Designs/
-│   └── Exported high-fidelity application screens
+│   ├── Banner UI.png
+│   ├── Challenge Chain - Detail Screen.png
+│   ├── Frame 1.png
+│   ├── Frame 2.png
+│   ├── Frame 3.png
+│   ├── Frame 4.png
+│   ├── Frame 5.png
+│   ├── Leaderboard Screen.png
+│   ├── Main Dashboard Screen.png
+│   ├── Profile Screen.png
+│   ├── Quick Quiz - Detail Screen.png
+│   ├── Quiz Selection Screen.png
+│   ├── SEQ Detail Screen.png
+│   ├── TapTest Landing Screen.png
+│   └── Voice Quiz Detail Screen.png
 │
 ├── TapTest Report/
-│   └── Final academic project report
-│
-├── public/
-│   └── images/
-│       └── taptest/
-│           ├── Main Dashboard Screen.png
-│           ├── TapTest Landing Screen.png
-│           ├── Profile Screen.png
-│           ├── Leaderboard Screen.png
-│           ├── Quiz Selection Screen.png
-│           ├── Quick Quiz - Detail Screen.png
-│           ├── SEQ Detail Screen.png
-│           ├── Challenge Chain - Detail Screen.png
-│           └── Voice Quiz Detail Screen.png
+│   └── TapTest Final Report.pdf
 │
 ├── LICENSE.txt
+│
 └── README.md
 ```
 
